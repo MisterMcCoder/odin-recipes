@@ -1,0 +1,30 @@
+html {
+    min-height: 100vh;
+    background: linear-gradient(180deg, rgb(3, 65, 112), rgb(128, 89, 24));
+}
+
+h1 {
+    text-align: center;
+    color: tan;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-line: underline;
+    
+}
+
+.flex-container{
+    display: flex;
+}
+
+.flex-container div {
+
+    
+
+
+
+
+}
+
+
+
+
